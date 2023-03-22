@@ -1,5 +1,4 @@
-
-# Perguntas & Respostas
+# Perguntas & Respostas <img src="https://github.com/WilliamDeviser/perguntas-e-respostas/blob/main/public/img/logo.png">
 
 Projeto desenvolvido no curso Técnico em Informática - Trilhas de Futuro - Senac Minas Unidade de Três Corações.
 
