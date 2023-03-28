@@ -90,7 +90,7 @@ app.post('/resposta', (req,res) => {
         res.redirect("/pergunta/" + idpergunta)
     })
 })
-
-app.listen(3333, () =>{
+// process.env.PORT = 3333
+app.listen(process.env.PORT, () =>{
     console.log("Servidor rodando")
 })
